@@ -1,2 +1,2 @@
 # introductory
-introducing myself in 
+introducing myself in this chapter of my life, while i code my way to epicness.
